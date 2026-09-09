@@ -162,7 +162,7 @@
 
     <h1 class="m-0 p-0">
         <a class="navbar-brand d-flex align-items-center m-0 p-0" href="index.html">
-            <img src="ETC/assets/logo.jpeg" alt="RTC Gensets Logo" class="logo-img">
+            <img src="assets/logo.jpeg" alt="RTC Gensets Logo" class="logo-img">
             <span>RTC GENSETS</span>
         </a>
     </h1>
